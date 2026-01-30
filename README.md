@@ -35,5 +35,9 @@ An analysis of algorithmic fairness using demographic parity and equal
 opportunity metrics, examining trade-offs between predictive accuracy and
 group-level bias.
 
+## Project 7: Robustness under Distribution Shift
+An empirical robustness study evaluating how classification performance
+degrades under controlled input perturbations, highlighting model sensitivity
+to distributional changes.
 Each project folder contains code and figures corresponding to the experiments
 described above.
