@@ -42,5 +42,9 @@ descent, focusing on convergence speed, stability, and optimization noise.
 An unsupervised learning study implementing an autoencoder to analyze latent
 representations, dimensionality reduction, and reconstruction error.
 
+## Project 10: Information-Theoretic Analysis of Representations
+An information-theoretic study quantifying entropy and mutual information to
+analyze information retention and compression in noisy representations.
+
 Each project folder contains the code and figures corresponding to the
 experiments described above.
