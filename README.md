@@ -2,8 +2,8 @@
 
 This repository contains empirical and theoretical studies in artificial
 intelligence, with a focus on generalization, interpretability, reasoning,
-uncertainty, and causality. The projects emphasize evaluation, analysis, and
-methodological clarity.
+uncertainty, causality, and fairness. The projects emphasize evaluation,
+analysis, and responsible AI practices.
 
 ## Project 1: Neural Network Generalization
 An empirical study of how model capacity and training data size affect
@@ -29,6 +29,11 @@ and proper scoring rules.
 A causal inference study demonstrating confounding, interventional effects,
 and counterfactual outcomes, highlighting the difference between observational
 correlations and causal reasoning.
+
+## Project 6: Fairness and Bias in Machine Learning
+An analysis of algorithmic fairness using demographic parity and equal
+opportunity metrics, examining trade-offs between predictive accuracy and
+group-level bias.
 
 Each project folder contains code and figures corresponding to the experiments
 described above.
