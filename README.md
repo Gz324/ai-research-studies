@@ -25,6 +25,10 @@ A probabilistic study comparing frequentist and Bayesian-style approaches to
 classification by analyzing predictive uncertainty, calibration behaviour,
 and proper scoring rules.
 
+## Project 5: Counterfactual Reasoning in Causal Models
+A causal inference study demonstrating confounding, interventional effects,
+and counterfactual outcomes, highlighting the difference between observational
+correlations and causal reasoning.
+
 Each project folder contains code and figures corresponding to the experiments
 described above.
-
