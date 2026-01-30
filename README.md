@@ -1,9 +1,9 @@
 # AI Research Studies
 
 This repository contains empirical and theoretical studies in artificial
-intelligence, with a focus on generalization, interpretability, reasoning, and
-uncertainty. The projects emphasize evaluation, analysis, and methodological
-clarity.
+intelligence, with a focus on generalization, interpretability, reasoning,
+uncertainty, and causality. The projects emphasize evaluation, analysis, and
+methodological clarity.
 
 ## Project 1: Neural Network Generalization
 An empirical study of how model capacity and training data size affect
