@@ -1,43 +1,42 @@
 # AI Research Studies
 
 This repository contains empirical and theoretical studies in artificial
-intelligence, with a focus on generalization, interpretability, reasoning,
-uncertainty, causality, and fairness. The projects emphasize evaluation,
-analysis, and responsible AI practices.
+intelligence, focusing on learning behaviour, reasoning, uncertainty,
+fairness, robustness, causality, and optimization. The projects emphasize
+analysis-driven experimentation and strong conceptual grounding.
 
 ## Project 1: Neural Network Generalization
-An empirical study of how model capacity and training data size affect
-generalization behaviour in neural networks. Results are analyzed using
-learning curves and repeated experiments to study bias–variance trade-offs.
+An empirical study of how model capacity and dataset size affect generalization
+behaviour in neural networks, analyzed using learning curves and repeated
+experiments.
 
 ## Project 2: Stability and Faithfulness of Model Explanations
-An evaluation-driven study of model interpretability, analyzing the stability
-of feature importance explanations across runs, agreement between models, and
-faithfulness through controlled feature-removal tests.
+An evaluation of interpretability methods by studying explanation stability
+across runs and faithfulness through controlled feature perturbations.
 
 ## Project 3: Reasoning with Soft Logical Constraints
-A logic-based study exploring reasoning under conflicting rules using soft
-constraints. Logical worlds are evaluated using weighted penalties to identify
-optimal explanations under inconsistency.
+A logic-based reasoning study using soft constraints to handle conflicting
+rules and evaluate optimal explanations under inconsistency.
 
 ## Project 4: Uncertainty Quantification in Probabilistic Models
-A probabilistic study comparing frequentist and Bayesian-style approaches to
-classification by analyzing predictive uncertainty, calibration behaviour,
-and proper scoring rules.
+A probabilistic analysis comparing predictive uncertainty and calibration
+behaviour under different modeling assumptions.
 
 ## Project 5: Counterfactual Reasoning in Causal Models
-A causal inference study demonstrating confounding, interventional effects,
-and counterfactual outcomes, highlighting the difference between observational
-correlations and causal reasoning.
+A causal inference study demonstrating the difference between observational
+correlation, interventions, and counterfactual outcomes.
 
 ## Project 6: Fairness and Bias in Machine Learning
 An analysis of algorithmic fairness using demographic parity and equal
-opportunity metrics, examining trade-offs between predictive accuracy and
-group-level bias.
+opportunity metrics, highlighting accuracy–fairness trade-offs.
 
 ## Project 7: Robustness under Distribution Shift
-An empirical robustness study evaluating how classification performance
-degrades under controlled input perturbations, highlighting model sensitivity
-to distributional changes.
-Each project folder contains code and figures corresponding to the experiments
-described above.
+An empirical robustness study evaluating how model performance degrades under
+controlled input perturbations.
+
+## Project 8: Optimization Dynamics and Convergence
+An empirical analysis comparing gradient descent and stochastic gradient
+descent, focusing on convergence speed, stability, and optimization noise.
+
+Each project folder contains the code and figures corresponding to the
+experiments described above.
