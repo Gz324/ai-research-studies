@@ -1,24 +1,17 @@
-# Stability and Faithfulness of Model Explanations
+# AI Research Studies
 
-This project studies whether feature importance explanations produced by
-machine learning models are reliable and faithful to the model’s actual
-decision behaviour.
+This repository contains empirical studies in machine learning and artificial
+intelligence, with a focus on evaluation, generalization, and interpretability.
 
-## Overview
-Rather than focusing on generating explanations, the experiments evaluate
-their stability across multiple runs and their faithfulness through controlled
-feature-removal tests.
+## Project 1: Neural Network Generalization
+This study analyzes how model capacity and training data size affect
+generalization behaviour in neural networks. Experiments are evaluated using
+repeated runs and learning curves.
 
-## Experiments
-- Stability of permutation-based feature importance across random initializations
-- Rank agreement of explanations between different model classes
-- Faithfulness testing by removing top-ranked features and observing performance degradation
+## Project 2: Stability and Faithfulness of Model Explanations
+This study investigates whether feature importance explanations are stable
+across runs and faithful to the underlying model behaviour, using permutation
+importance and controlled feature-removal tests.
 
-## Models
-- Logistic Regression
-- Random Forest
-
-## Files
-- explanation_stability.py: experiment code
-- importance_stability.png: stability analysis across runs
-- faithfulness_test.png: faithfulness evaluation via feature removal
+Each project folder contains the corresponding code, figures, and a short
+project-specific README.
