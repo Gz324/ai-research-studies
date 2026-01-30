@@ -38,5 +38,9 @@ controlled input perturbations.
 An empirical analysis comparing gradient descent and stochastic gradient
 descent, focusing on convergence speed, stability, and optimization noise.
 
+## Project 9: Representation Learning with Autoencoders
+An unsupervised learning study implementing an autoencoder to analyze latent
+representations, dimensionality reduction, and reconstruction error.
+
 Each project folder contains the code and figures corresponding to the
 experiments described above.
